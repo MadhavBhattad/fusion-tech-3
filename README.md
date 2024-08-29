@@ -11,14 +11,6 @@ This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The
 - Display video information (title, description, uploader, views, likes, etc.)
 - Responsive design for various devices
 
-Website Link: https://atinder11.github.io/Youtube-Clone/
-## Demo Video:
-
-
-https://github.com/atinder11/Youtube-Clone/assets/111070211/e8ecdcc1-a761-4bb7-a0ea-92c600688548
-
-
-
 ## ScreenShot:
 1.Landing Page:
 <br>
@@ -31,26 +23,10 @@ https://github.com/atinder11/Youtube-Clone/assets/111070211/e8ecdcc1-a761-4bb7-a
 ![image](https://github.com/atinder11/Youtube-Clone/assets/111070211/47b98e09-15e1-464f-b82d-2ab632162a4d)
 <br>
 
-3.Playing Video
-
-![image](https://github.com/atinder11/Youtube-Clone/assets/111070211/917e5953-9db7-43f4-bcb4-3b9509a6e0e7)
-
-4.Comment Section
-
-![image](https://github.com/atinder11/Youtube-Clone/assets/111070211/dcbdd3bd-f411-4c4d-956f-95d90bc37db6)
-
-
-
-
-
-
 ## Technologies Used
 - HTML: For creating the structure of the web pages.
 - CSS: For styling the web pages and making them visually appealing.
 - JavaScript: For adding interactivity and functionality to the website.
-
-
-
 
 ## Usage
 1. Open the `index.html` file in your web browser.
